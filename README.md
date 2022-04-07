@@ -10,10 +10,6 @@ Additional description about the project and its features.
 - JS
 - NPM
 
-## Live Demo
-
-[Live Demo Link](https://saidrasinlic.github.io/Webpack-Project-Setup/)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
